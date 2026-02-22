@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I'm Harin Dulneth, a Computer Science undergraduate at the University of Kelaniya.
+I'm Harin Dulneth, a Computer Science undergraduate at University of Kelaniya.
 
 I'm deeply passionate about Artificial Intelligence, Machine Learning, and Deep Learning, with a strong focus on building intelligent systems that solve real-world problems.
 
