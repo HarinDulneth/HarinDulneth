@@ -4,6 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1200&color=d6e3f8&center=true&vCenter=true&width=1100&height=100&lines=Hi+%F0%9F%91%8B,+I'm+Harin+Dulneth;Computer+Science+Undergraduate,+University+of+Kelaniya" />
 </p>
 
+## 👋 About Me
+
+I'm Harin Dulneth, a Computer Science undergraduate at the University of Kelaniya.
+
+I'm deeply passionate about Artificial Intelligence, Machine Learning, and Deep Learning, with a strong focus on building intelligent systems that solve real-world problems.
+
+I primarily work with Python, using it extensively for AI/ML development, model training, and backend engineering.
+
+Alongside AI, I'm also interested in Full Stack Development and .NET technologies, building scalable applications across both frontend and backend.
+
 ### 📫 Connect With Me
 
 <p align="center">
