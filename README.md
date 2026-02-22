@@ -1,4 +1,8 @@
-## Hi there 👋
+![Banner](banner.png)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1200&color=f1d6f8&center=true&vCenter=true&width=1100&height=100&lines=Hi+%F0%9F%91%8B,+I'm+Harin+Dulneth;Computer+Science+Undergraduate,+University+of+Kelaniya" />
+</p>
 
 <!--
 **HarinDulneth/HarinDulneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
