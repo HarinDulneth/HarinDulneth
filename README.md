@@ -36,7 +36,7 @@ Alongside AI, I'm also interested in Full Stack Development and .NET ecosystem, 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarinDulneth&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarinDulneth&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarinDulneth&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=HarinDulneth&theme=tokyonight)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarinDulneth&theme=tokyo-night)
 <!--
 **HarinDulneth/HarinDulneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
