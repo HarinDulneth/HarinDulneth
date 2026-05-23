@@ -47,23 +47,29 @@ Alongside AI, I'm also interested in the **.NET ecosystem** and scalable full st
 
 # 📊 GitHub Stats
 
+<table align="center">
+<tr border="none">
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarinDulneth&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=38BDAE"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarinDulneth&theme=tokyonight" />
+
+</td>
+
+</tr>
+</table>
+
 <p align="center">
-
   <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarinDulneth&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=38BDAE"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarinDulneth&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=70A5FD&text_color=38BDAE"
-  />
-
-</p>
-
-<p align="center">
-  <img
-    width="700"
+    width="70%"
     src="https://streak-stats.demolab.com?user=HarinDulneth&theme=tokyonight&hide_border=true&background=0D1117&ring=BF91F3&fire=BF91F3&currStreakLabel=38BDAE"
   />
 </p>
