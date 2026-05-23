@@ -33,8 +33,8 @@ Alongside AI, I'm also interested in Full Stack Development and .NET ecosystem, 
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,react,nextjs,nodejs,express,spring,dotnet,fastapi,flask,tensorflow,postgres,mongodb,mysql,supabase,redis,docker,git&perline=7" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarinDulneth&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarinDulneth&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HarinDulneth&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarinDulneth&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=HarinDulneth&theme=tokyonight)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarinDulneth&theme=tokyo-night)
