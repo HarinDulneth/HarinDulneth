@@ -81,7 +81,7 @@ Alongside AI, I'm also interested in the **.NET ecosystem** and scalable full st
 <p align="center">
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HarinDulneth&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HarinDulneth&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=BF91F3&line=BF91F3&point=BF91F3"
   />
 </p>
 
