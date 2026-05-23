@@ -60,7 +60,7 @@ Alongside AI, I'm also interested in the **.NET ecosystem** and scalable full st
 
 <td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarinDulneth&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarinDulneth&theme=tokyonight" />
 
 </td>
 
