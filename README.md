@@ -1,20 +1,29 @@
 ![Banner](banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1200&color=d6e3f8&center=true&vCenter=true&width=1100&height=100&lines=Hi+%F0%9F%91%8B,+I'm+Harin+Dulneth;Computer+Science+Undergraduate,+University+of+Kelaniya" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1200&color=D6E3F8&center=true&vCenter=true&width=1100&height=100&lines=Hi+👋,+I'm+Harin+Dulneth;Computer+Science+Undergraduate,+University+of+Kelaniya" />
 </p>
 
-## 👋 About Me
+---
 
-I'm Harin Dulneth, a Computer Science undergraduate at University of Kelaniya.
+# 👋 About Me
 
-I'm deeply passionate about Artificial Intelligence, Machine Learning and Deep Learning, with a strong focus on building intelligent systems that solve real-world problems.
+I'm **Harin Dulneth**, a Computer Science undergraduate at the **University of Kelaniya**.
 
-I primarily work with Python, using it extensively for AI/ML development, model training and backend engineering.
+I'm deeply passionate about:
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Backend Engineering
+- Full Stack Development
 
-Alongside AI, I'm also interested in Full Stack Development and .NET ecosystem, building scalable applications across both frontend and backend.
+I primarily work with **Python** for AI/ML systems, model training, APIs and backend development.
 
-### 📫 Connect With Me
+Alongside AI, I'm also interested in the **.NET ecosystem** and scalable full stack applications.
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harin-dulneth-1b8455352/" target="_blank">
@@ -26,29 +35,52 @@ Alongside AI, I'm also interested in Full Stack Development and .NET ecosystem, 
   </a>
 </p>
 
+---
 
-### 🛠 Languages & Tools
+# ⚡ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,react,nextjs,nodejs,express,spring,dotnet,fastapi,flask,tensorflow,postgres,mongodb,mysql,supabase,redis,docker,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,react,nextjs,nodejs,express,spring,dotnet,fastapi,flask,tensorflow,postgres,mongodb,mysql,supabase,redis,docker,git,github,figma,aws,azure&perline=12" />
 </p>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HarinDulneth&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarinDulneth&layout=compact&theme=tokyonight&hide_border=true)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HarinDulneth&theme=tokyonight)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarinDulneth&theme=tokyo-night)
+# 📊 GitHub Stats
+
+<p align="center">
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarinDulneth&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=38BDAE"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarinDulneth&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=70A5FD&text_color=38BDAE"
+  />
+
+</p>
+
+<p align="center">
+  <img
+    width="700"
+    src="https://streak-stats.demolab.com?user=HarinDulneth&theme=tokyonight&hide_border=true&background=0D1117&ring=BF91F3&fire=BF91F3&currStreakLabel=38BDAE"
+  />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HarinDulneth&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true"
+  />
+</p>
+
+---
+
 <!--
-**HarinDulneth/HarinDulneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**HarinDulneth/HarinDulneth** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
