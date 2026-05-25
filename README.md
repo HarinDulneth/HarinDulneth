@@ -53,7 +53,7 @@ Alongside AI, I'm also interested in the **.NET ecosystem** and scalable full st
 <td width="50%" align="center">
 
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarinDulneth&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=38BDAE"
+  src="https://github-readme-stats.vercel.app/api?username=HarinDulneth&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=38BDAE"
 />
 
 </td>
@@ -70,7 +70,7 @@ Alongside AI, I'm also interested in the **.NET ecosystem** and scalable full st
 <p align="center">
   <img
     width="70%"
-    src="https://streak-stats.demolab.com?user=HarinDulneth&theme=tokyonight&hide_border=true&background=0D1117&ring=BF91F3&fire=BF91F3&currStreakLabel=38BDAE"
+    src="https://github-readme-streak-stats.herokuapp.com?user=HarinDulneth&theme=tokyonight&hide_border=true&background=0D1117&ring=BF91F3&fire=BF91F3&currStreakLabel=38BDAE"
   />
 </p>
 
