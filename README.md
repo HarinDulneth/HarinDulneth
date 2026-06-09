@@ -8,18 +8,11 @@
 
 # 👋 About Me
 
-I'm **Harin Dulneth**, a Computer Science undergraduate at the **University of Kelaniya**.
-
-I'm deeply passionate about:
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Backend Engineering
-- Full Stack Development
-
-I primarily work with **Python** for AI/ML systems, model training, APIs and backend development.
-
-Alongside AI, I'm also interested in the **.NET ecosystem** and scalable full stack applications.
+I'm **Harin Dulneth**, a Computer Science undergraduate specializing in Artificial Intelligence, with a focus on building AI-driven, production-grade
+systems. Experienced in developing scalable backend services with FastAPI and .NET, and integrating machine learning solutions
+using PyTorch and TensorFlow. Skilled in developing end-to-end ML pipelines, RESTful APIs and data-driven applications with
+PostgreSQL, MongoDB and Redis. Comfortable with Docker and CI/CD workflows, ensuring reliable and maintainable
+deployments. Passionate about leveraging AI to build practical, user-centric and high-performance software solutions.
 
 ---
 
