@@ -10,7 +10,9 @@
 
 I'm **Harin Dulneth**, a Computer Science undergraduate specializing in Artificial Intelligence, with a focus on building AI-driven, production-grade
 systems. Experienced in developing scalable backend services with FastAPI and .NET, and integrating machine learning solutions
-using PyTorch and TensorFlow. Skilled in developing end-to-end ML pipelines, RESTful APIs and data-driven applications with
+using PyTorch and TensorFlow. 
+
+I'm Skilled in developing end-to-end ML pipelines, RESTful APIs and data-driven applications with
 PostgreSQL, MongoDB and Redis. Comfortable with Docker and CI/CD workflows, ensuring reliable and maintainable
 deployments. Passionate about leveraging AI to build practical, user-centric and high-performance software solutions.
 
