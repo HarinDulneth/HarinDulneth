@@ -1,7 +1,7 @@
 ![Banner](banner2.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1200&color=E0005A&center=true&vCenter=true&width=1100&height=100&lines=Hi+There+%F0%9F%91%8B;I'm+Harin+Dulneth;Computer+Science+Undergraduate+at+University+of+Kelaniya" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1200&color=F0006C&center=true&vCenter=true&width=1100&height=100&lines=Hi+There+%F0%9F%91%8B;I'm+Harin+Dulneth;Computer+Science+Undergraduate+at+University+of+Kelaniya" />
 </p>
 
 ---
